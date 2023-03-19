@@ -1,0 +1,53 @@
+body{font-family: 'Poppins',sans-serif;color: #aaa;}
+#nav li {float: left;margin: 5px;list-style-type: none;font-weight: bolder;border-bottom: white 1px sol;}
+#content li{float: left;margin: 5px;background-color: #20D0F5;color: white; padding: 20px;width: 15%; margin-top:-1px;text-align: center;}
+#content li a{color: white;}
+#content{margin-top: -50px;}
+#main{color: white;}
+li a{text-decoration: none;color: white;text-decoration: none;}
+#nav:hover{color:#20D0F5;}
+a{text-decoration: none;}
+.campaign-timer {
+    background: rgba(50,55,63,.65);
+    max-width: 555px;
+    margin: 43px auto;
+    padding: 24px 0 30px;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(34,31,31,.2);
+}
+.img1{transition: .5s;}
+.img1:hover{transform: scale(1.5);}
+.campaign{
+    background: rgba(9,5,60,.50);width: 100%;overflow: hidden;
+}
+#pakg1{ border-radius: 5px;
+    box-shadow: 0 0 20px rgba(34,31,31,.2);}
+#pakg2{ border-radius: 5px;
+        box-shadow: 0 0 20px rgba(34,31,31,.2);}
+#pakg3{ border-radius: 5px;
+            box-shadow: 0 0 20px rgba(34,31,31,.2);}
+#pakg4{ border-radius: 5px;
+                box-shadow: 0 0 20px rgba(34,31,31,.2);}
+#pakg5{ border-radius: 5px;
+                    box-shadow: 0 0 20px rgba(34,31,31,.2);}
+#pakg6{ border-radius: 5px;
+                        box-shadow: 0 0 20px rgba(34,31,31,.2);}
+ul li{list-style-type: none;}
+.centerhead{color: black;font-weight: bold;}
+#row1{background-image: url(mainimage.jpg);background-size: cover;background-repeat: no-repeat;height: 100%;}
+#row2{margin-top: -5%;background-color: white;margin-left:2%;margin-right: 2px;box-shadow: tomato;}
+#row5{background-image: url(offer-timer.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     color: white;
+     margin-top: 5%;margin-left: 1px;}
+#head2{margin-left: 30%;}
+#row7{margin-top: 5%;text-align: center;background-image: url(subscribe-banner.jpg);color: white;padding:10%;margin-left:0px;}
+
+#btn1{background-color:#20D0F5;color:white;border:none;border-radius: 10px;padding: 10px;width: 20%;}
+#btn2{background-color: #20D0F5; color: white; border-radius: 12px;padding: 20px;width: 20%;border: none;}
+#btn3{background-color: #20D0F5; color: white;margin-top: 10%;padding: 20px;width: 15%;border: none;}
+#btn4{background-color: #20D0F5; color: white;margin-top: 10%;padding: 20px;width: 15%;border: none;}
+#btn5{background-color: #20D0F5; color: white;margin-top: 10%;padding: 20px;width: 15%;border: none;}
+.pra1{margin-left:30%;margin-top:-30;}
+i{color: yellow;}
